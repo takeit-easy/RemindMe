@@ -246,8 +246,11 @@
     <string name="abc_toolbar_collapse_description">Collapse</string>
     <string name="app_name">RemindMe Beta</string>
     <string name="appbar_scrolling_view_behavior" translatable="false">android.support.design.widget.AppBarLayout$ScrollingViewBehavior</string>
+    <string name="menu_item_notification">Напоминания</string>
     <string name="search_title">search_title</string>
     <string name="status_bar_notification_info_overflow">999+</string>
+    <string name="view_navigation_close">Close</string>
+    <string name="view_navigation_open">Open</string>
     <style name="AlertDialog.AppCompat" parent="Base.AlertDialog.AppCompat"/>
     <style name="AlertDialog.AppCompat.Light" parent="Base.AlertDialog.AppCompat.Light"/>
     <style name="Animation.AppCompat.Dialog" parent="Base.Animation.AppCompat.Dialog"/>

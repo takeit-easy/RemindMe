@@ -2,5 +2,9 @@
     {
         "merged": "D:\\Android\\RemindMe\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi-v4\\ic_launcher.png",
         "source": "D:\\Android\\RemindMe\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\Android\\RemindMe\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi-v4\\ic_message_text.png",
+        "source": "D:\\Android\\RemindMe\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_message_text.png"
     }
 ]
